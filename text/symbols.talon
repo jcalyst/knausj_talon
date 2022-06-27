@@ -1,6 +1,6 @@
 question [mark]: "?"
 (downscore | underscore): "_"
-double dash: "--"
+(double dash | em dash): "--"
 (bracket | brack | left bracket): "{"
 (rbrack | are bracket | right bracket): "}"
 triple quote: "'''"
