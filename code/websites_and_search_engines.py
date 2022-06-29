@@ -18,7 +18,7 @@ website_defaults = {
     "talon wiki": "https://talon.wiki/",
     "talon practice": "https://chaosparrot.github.io/talon_practice/",
     "talon repository search": "https://search.talonvoice.com/search/",
-    "amazon": "https://www.amazon.com/",
+    "amazon": "https://smile.amazon.com/",
     "dropbox": "https://dropbox.com/",
     "google": "https://www.google.com/",
     "google calendar": "https://calendar.google.com",
